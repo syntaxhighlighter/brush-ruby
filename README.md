@@ -1,6 +1,6 @@
 # syntaxhighlighter/brush-ruby
 
-ruby brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
+Ruby brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
 [![Build Status](https://travis-ci.org/alexgorbatchev/brush-ruby.svg)](https://travis-ci.org/alexgorbatchev/brush-ruby)
 
