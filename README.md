@@ -2,11 +2,11 @@
 
 Ruby brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/brush-ruby.svg)](https://travis-ci.org/alexgorbatchev/brush-ruby)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/brush-ruby.svg)](https://travis-ci.org/syntaxhighlighter/brush-ruby)
 
 ## Installation
 
-    npm install syntaxhighlighter/brush-ruby
+    npm install @alexgorbatchev/brush-ruby
 
 ## Testing
 
