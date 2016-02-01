@@ -1,5 +1,5 @@
 {
-  "name": "brush-ruby",
+  "name": "@alexgorbatchev/brush-ruby",
   "version": "4.0.0",
   "description": "ruby brush module for SyntaxHighlighter.",
   "keywords": [
